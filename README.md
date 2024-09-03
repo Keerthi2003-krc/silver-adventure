@@ -40,5 +40,7 @@ Step 3 --> index.html file in the project directory
   Open the terminal (or command prompt) and run the index.html file using the following command,
 
   Start-Process .\index.html
+
+  Project URL:https://github.com/Keerthi2003-krc/silver-adventure.git
   
   
